@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35507.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppPwaAssetsIntegrityFails", "BlazorAppPwaAssetsIntegrityFails\BlazorAppPwaAssetsIntegrityFails\BlazorAppPwaAssetsIntegrityFails.csproj", "{DED02725-68D6-4AF3-90C5-A14503464E4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppPwaAssetsIntegrityFails.Client", "BlazorAppPwaAssetsIntegrityFails\BlazorAppPwaAssetsIntegrityFails.Client\BlazorAppPwaAssetsIntegrityFails.Client.csproj", "{616EF73D-D91A-4B69-8405-6CDD2C7E5887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED02725-68D6-4AF3-90C5-A14503464E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED02725-68D6-4AF3-90C5-A14503464E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED02725-68D6-4AF3-90C5-A14503464E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED02725-68D6-4AF3-90C5-A14503464E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616EF73D-D91A-4B69-8405-6CDD2C7E5887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616EF73D-D91A-4B69-8405-6CDD2C7E5887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616EF73D-D91A-4B69-8405-6CDD2C7E5887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616EF73D-D91A-4B69-8405-6CDD2C7E5887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2C51F4E-CC72-44EC-96BE-3C59B88E0FF3}
+	EndGlobalSection
+EndGlobal
